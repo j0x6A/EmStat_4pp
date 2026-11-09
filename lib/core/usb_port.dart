@@ -1,0 +1,3 @@
+class UsbPort {
+  void dispose() {}
+}
